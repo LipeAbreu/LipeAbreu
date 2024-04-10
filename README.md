@@ -5,13 +5,12 @@
 - Bom Dia 👍, bem vindo ao meu perfil do Github 😄:. 
 - ⚡Sou o Felipe, tenho 20 anos e estudo ciências da computação, estou caminhando para o intermediário da computação e vou me tornar um ótimo programador. 🙌
 - Esse é o meu segundo ano da faculdade de ciência da computação 🏫 e estou expandindo os meus conhecimentos no Alura. 🎒
-- 📘 Já estudei sobre:
-HTML,
-CSS,
-JAVASCRIPT 
+- 📘 Já estudei Lógica de programação e Arquitetura de computadores 💻 e já estudei as linguagens:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> width="40" height="40"/>       
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-LINUX, 
-Lógica de programação e Arquitetura de computadores. 💻
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> 
+
 - ✈️ Moro no Brasíl, no estado de São Paulo. 🌇
 
 
